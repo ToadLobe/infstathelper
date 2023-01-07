@@ -1,0 +1,16 @@
+{
+	"name": "Inferential Stats Helper",
+	"short_name": "Inferential Stats Helper",
+	"description": "Inferential stats test calculator.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Logo.png",
+			"sizes": "15x15",
+			"type": "image/png"
+		}
+	]
+}
